@@ -1,5 +1,5 @@
 // REPS Service Worker — v2
-const CACHE = 'reps-v3';
+const CACHE = 'reps-v4';
 
 self.addEventListener('install', event => {
   event.waitUntil(
